@@ -25,6 +25,9 @@ The project demonstrates the complete analytics lifecycle—from data acquisitio
 - **Documentation** – Step-by-step methodology explaining the analytical approach and techniques applied.
 - **Visualizations & Dashboards** – Charts, graphs, and interactive dashboards to present KPIs clearly and intuitively.
 
+- <img width="1920" height="1080" alt="Screenshot (593)" src="https://github.com/user-attachments/assets/66c15100-31f8-49ae-a081-402c2159b7f7" />
+
+
 ---
 
 ## 🔍 Methodology
