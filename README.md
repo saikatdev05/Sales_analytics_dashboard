@@ -26,6 +26,10 @@ The project demonstrates the complete analytics lifecycle—from data acquisitio
 - **Visualizations & Dashboards** – Charts, graphs, and interactive dashboards to present KPIs clearly and intuitively.
 
 - <img width="1920" height="1080" alt="Screenshot (593)" src="https://github.com/user-attachments/assets/66c15100-31f8-49ae-a081-402c2159b7f7" />
+<img width="1920" height="1080" alt="Screenshot (594)" src="https://github.com/user-attachments/assets/2ba00bb4-6ed1-4ae2-abb9-dbd00b66238e" />
+
+<img width="1920" height="1080" alt="Screenshot (595)" src="https://github.com/user-attachments/assets/98f420aa-ba20-48bf-9adf-8588ee295bbf" />
+
 
 
 ---
